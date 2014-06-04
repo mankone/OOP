@@ -1,0 +1,5 @@
+Persons sql database credentials
+
+password= ""
+
+username = root
